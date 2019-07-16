@@ -1,5 +1,5 @@
 {
-  "name": "bloom-filter-remixed",
+  "name": "@mixmaxhq/bloom-filter",
   "main": "lib/index.js",
   "version": "0.3.0",
   "scripts": {
@@ -7,8 +7,8 @@
     "coverage": "node_modules/.bin/gulp coverage"
   },
   "repository": {
-    "type" : "git",
-    "url" : "http://github.com/semaj/bloom-filter.git"
+    "type": "git",
+    "url": "http://github.com/mixmaxhq/bloom-filter.git"
   },
   "dependencies": {
     "murmur-hash": "1.0.0"
